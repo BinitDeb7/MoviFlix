@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=F02E65" alt="Appwrite" />
   </div>
 
-  <h3 align="center">🎬 Movie Finder App</h3>
-  <p align="center">A mobile app to search, discover, and rank movies with a modern UI/UX.</p>
+  <h3 align="center">🎬 MoviFlix App</h3>
+  <p align="center">A mobile app to search, discover, and rank movies.</p>
 </div>
 
 ---
@@ -29,7 +29,7 @@
 
 ## 🤖 Introduction
 
-The **Movie Finder App** is built with **Expo, React Native, TypeScript, Tailwind CSS (NativeWind), and Appwrite**.  
+The **MoviFlix App** is built with **Expo, React Native, TypeScript, Tailwind CSS (NativeWind), and Appwrite**.  
 It fetches real-time movie data, implements a popularity algorithm, and delivers a smooth browsing experience.  
 The app follows modern UI/UX practices to ensure scalability, performance, and cross-platform support.
 
